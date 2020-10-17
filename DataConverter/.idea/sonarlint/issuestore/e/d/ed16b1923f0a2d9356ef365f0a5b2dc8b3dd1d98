@@ -1,0 +1,9 @@
+
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(àŞ„©úÿÿÿÿ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+asquid:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…
+]squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(°±ğo
+csquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ
+1squid:S1220""Move this file to a named package.
