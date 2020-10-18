@@ -15,7 +15,7 @@ import java.util.Iterator;
 public class JavaJsonSmpl {
     public static void main(String[] args) {
         try {
-            String url = "https://vision.googleapis.com/v1/images:annotate?key=AIzaSyCu73vgmAbTB6DBdlfsBpXYd8VQ1LDbXPI";
+            String url = "https://vision.googleapis.com/v1/images:annotate?key=<GOOGLE-API-KEY>";
             String payload = "{\n" +
                     "  \"requests\": [\n" +
                     "    {\n" +
