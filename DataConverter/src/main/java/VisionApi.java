@@ -34,7 +34,7 @@ public class VisionApi {
                     "      ],\n" +
                     "      \"image\": {\n" +
                     "        \"source\": {\n" +
-                    "          \"imageUri\": \"https://storage.googleapis.com/ruslimgbkt2/CASA1.jpg\"\n" +
+                    "          \"imageUri\": \""+imgUrl+"\"\n" +
                     "        }\n" +
                     "      }\n" +
                     "    }\n" +
